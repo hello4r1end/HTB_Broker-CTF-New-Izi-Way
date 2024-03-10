@@ -15,3 +15,4 @@ and also if you go to http://10.10.11.243:3456/root/root.txt you also see the ro
 ![Screenshot from 2024-03-10 14-11-59](https://github.com/hello4r1end/HTB_Broker-CTF-New-Izi-Way/assets/60706453/03ede83e-8725-4c39-aa1a-c60998b87668)
 
 ![311535665-d7029f8f-3275-4e8d-b2c2-ebdc03fe43c3](https://github.com/hello4r1end/HTB_Broker-CTF-New-Izi-Way/assets/60706453/9f51dc44-ef74-4ca5-8056-3ba763cdcd48)
+![311535666-c87cf4a0-8827-46b6-b851-1f7633656cfc](https://github.com/hello4r1end/HTB_Broker-CTF-New-Izi-Way/assets/60706453/e1632de8-f135-46f9-935c-4ab3f2dbf53a)
